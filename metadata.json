@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow: Zen Productivity",
+  "description": "A sophisticated workspace with Google SSO cloud sync, AI-powered daily motivational quotes, task infographics, and a geometric calendar interface.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
